@@ -5,4 +5,8 @@ In dieser Lernperiode will ich ein neues Projekt beginnen aber auch schauen das 
 
 - [x] M347 zusammenfassung schreiben für die Prüfung
 - [x] Repetioton für das M347 so das ich nach den Ferien jetzt wieder gut vorbereitet bin für den Test
-- [x] Projekt Ideen suchen 
+- [x] Projekt Ideen suchen
+
+## Arbeitspakete 21.02.2025
+- [ ] Im modul 114 weiter arbeiten
+- [ ] Python kennenlernen und auffrischen
