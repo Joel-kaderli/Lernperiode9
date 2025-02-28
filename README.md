@@ -10,3 +10,8 @@ In dieser Lernperiode will ich ein neues Projekt beginnen aber auch schauen das 
 ## Arbeitspakete 21.02.2025
 - [ ] Im modul 114 weiter arbeiten
 - [ ] Python kennenlernen und auffrischen
+
+## Arbeitspakete 28.02.2025
+- [ ] Modul 259 Hausaufgabe erledigen
+- [ ] Mit dem Neuen Python Projekt beginnen
+Ich Mache neu einen Finanzrechner wo ich daten eingebe kann und diese dann auf eine Datenbank gespeichert werden. Und dann kann ich meine Ein- und Ausgaben Anlysieren.  
