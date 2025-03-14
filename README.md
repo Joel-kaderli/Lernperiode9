@@ -16,6 +16,11 @@ In dieser Lernperiode will ich ein neues Projekt beginnen aber auch schauen das 
 - [ ] Mit dem Neuen Python Projekt beginnen
 Ich Mache neu einen Finanzrechner wo ich daten eingebe kann und diese dann auf eine Datenbank gespeichert werden. Und dann kann ich meine Ein- und Ausgaben Anlysieren.
 
-## Arbeitspakete 0703.2025
+## Arbeitspakete 07.03.2025
 - [ ] M269 Datensatz suchen und bewerten
 - [ ] Finanzrechner mit Python Sql Tabbelle verknüpfen so das ich Daten in die Datenbank machen kann
+
+## Arbeitspaktete 14.03.2025
+
+- [ ] Projekt Finanzrechner Daten eingeben und code schreiben für analyse
+- [ ] M426 nacharbeiten um wieder auf den Aktuellen stand zukommen, desing Pattern observer
