@@ -24,3 +24,9 @@ Ich Mache neu einen Finanzrechner wo ich daten eingebe kann und diese dann auf e
 
 - [ ] Projekt Finanzrechner Daten eingeben und code schreiben für analyse
 - [ ] M426 nacharbeiten um wieder auf den Aktuellen stand zukommen, desing Pattern observer
+
+## Arbeitspaktete 21.03.2025
+
+- [ ] Modul 259 Jupyter Notebooke erstelle data descrption dort drin LB Teilaufge 2 machen
+- [ ] Modul 259 Jupyter Notebooke erstelle data descrption dokumentation schreiben über Teilaufgabe 2
+- [ ] M426 Nachholen/Lernen für Scrum OBA
