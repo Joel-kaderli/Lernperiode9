@@ -30,3 +30,8 @@ Ich Mache neu einen Finanzrechner wo ich daten eingebe kann und diese dann auf e
 - [ ] Modul 259 Jupyter Notebooke erstelle data descrption dort drin LB Teilaufge 2 machen
 - [ ] Modul 259 Jupyter Notebooke erstelle data descrption dokumentation schreiben über Teilaufgabe 2
 - [ ] M426 Nachholen/Lernen für Scrum OBA
+
+## Arbeitspakete 28.03.2025
+
+- [ ] Im M114 Aufträge 1732 und 1725
+- [ ] LB 426 implemetirung Roulet machen
