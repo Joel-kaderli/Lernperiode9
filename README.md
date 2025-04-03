@@ -35,3 +35,10 @@ Ich Mache neu einen Finanzrechner wo ich daten eingebe kann und diese dann auf e
 
 - [ ] Im M114 Aufträge 1732 und 1725
 - [ ] LB 426 implemetirung Roulet machen
+
+## Arbeitspakete 04.04.2025
+- [ ] M259 skalirungs aufträge erledigen
+- [ ] Ideen suchen für eine Portfoilo Webseite
+- [ ] Umsetzung beginnen mit der Portfolio Webseite
+- [ ] Finanzrechner sinvoll beenden, falls noch Zeit ist
+
